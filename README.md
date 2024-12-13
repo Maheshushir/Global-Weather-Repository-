@@ -11,7 +11,5 @@ Astronomical Data including sunrise, sunset, moonrise, and moonset timings
 Moon Phases and Moon Illumination Levels
 This versatile dataset serves as a key resource for environmental studies, predictive analytics, and the development of weather-related applications. With easy access to this information, the Global Weather Repository empowers users to gain insights into weather patterns and conduct meaningful analyses.
 
-To get started, you will need Git to clone the repository. Follow the installation instructions provided in the repository to set it up locally.
-
 Join us in exploring the world's weather data!
 
